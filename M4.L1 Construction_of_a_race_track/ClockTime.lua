@@ -1,3 +1,4 @@
+--Dodać w ServerScriptService
 local light = game:GetService('Lighting')
 
 while true do
