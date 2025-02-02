@@ -1,0 +1,1 @@
+rbxasset://textures/particles/smoke_main.dds
